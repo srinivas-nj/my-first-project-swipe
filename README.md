@@ -45,3 +45,5 @@ I am currently learning **Java** and **React** to build a stronger foundation in
 --> 3rd Year CSE Student | Annamacharya University  
 --> Aspiring Java Full Stack Developer  
 --> Learning • Building • Growing Every Day
+
+ Thank you for visiting my project! Feedback and suggestions are always welcome.
